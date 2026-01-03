@@ -1,0 +1,16 @@
+
+Fichier Informatique : Afficher un contenu, Modifier contenu, sauver les modifs.
+
+Une page web : Display contenu, réagir à un clique
+
+Grille pain : griller, changer puissance, interrompre grill.
+
+Un lecteur CD : Ouvric capot, fermer capot, Play CD, Next track, last track, pause, change volume, Stop.
+
+Une tasse à café : Changer de température, se remplir, se vider.
+
+Un moteur de voiture : S'allumer, s'éteindre, changer de vitesse, changer de tours/min.
+
+Un téléphone mobile 9 touches : Appeller numéro; raccrocher, send sms to numéro, afficher mes sms, aficher mes contacts.
+
+Un répertoire télephonique : Afficher repertoire, nouveau contact, change contact, delete contact.
